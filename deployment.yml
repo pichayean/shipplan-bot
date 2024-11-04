@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
       - name: shipbot-container
-        image: pichayean/shipplan-bot:v1
+        image: pichayean/shipplan-bot:v2
         resources:
           limits:
             memory: "256Mi"
